@@ -10,3 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+div align=center>
+  
+  <img width="750" src="https://user-images.githubusercontent.com/59866819/171024189-2f1fecd8-5489-4050-8260-2a01aa108abb.png">
+  
+  ### Swift의 기초를 탄탄하게 다지기위해 연습한 것을 기록한 곳입니다.
+  
+</div>
